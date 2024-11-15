@@ -1,4 +1,4 @@
-# fix-bunnyan-unit-test
+# fix-bunyan-unit-test
 
 There is an issue on bunyan declaration.
 
